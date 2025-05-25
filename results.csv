@@ -1,0 +1,16 @@
+class,instance,time_milp,ms_milp,time_heur,ms_heur,time_window,ms_window
+large,large_1.json,4.15,150.00,1.80,757.00,1.48,150.00
+large,large_2.json,4.03,150.00,1.87,492.00,1.45,150.00
+large,large_3.json,3.84,150.00,1.77,668.00,1.38,150.00
+large,large_4.json,3.82,147.00,1.67,681.00,1.46,147.00
+large,large_5.json,3.76,149.00,1.56,624.00,1.36,149.00
+medium,medium_1.json,1.94,146.00,1.92,643.00,0.92,146.00
+medium,medium_2.json,2.03,148.00,1.17,554.00,0.93,148.00
+medium,medium_3.json,1.86,150.00,1.14,624.00,0.86,150.00
+medium,medium_4.json,1.82,148.00,1.22,626.00,0.88,148.00
+medium,medium_5.json,2.08,147.00,0.93,565.00,0.94,147.00
+small,small_1.json,0.60,149.00,0.42,426.00,0.41,149.00
+small,small_2.json,0.55,148.00,0.46,344.00,0.43,148.00
+small,small_3.json,0.53,147.00,0.44,307.00,0.38,147.00
+small,small_4.json,0.57,149.00,0.48,292.00,0.42,149.00
+small,small_5.json,0.58,145.00,0.44,483.00,0.44,145.00
